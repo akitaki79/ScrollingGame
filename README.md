@@ -1,4 +1,4 @@
-Scrolling Game
+# Scrolling Game
 
 ## Overview
 The game features a side-scrolling environment where a player navigates through obstacles, collecting points and avoiding hazards.
