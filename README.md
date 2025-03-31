@@ -5,7 +5,7 @@ The game features a side-scrolling environment where a player navigates through 
 
 ## Installation
 ```sh
-git clone https://github.com/yourusername/scrolling-game.git
+git clone https://github.com/akitaki79/ScrollingGame.git
 cd scrolling-game
 ```
 
